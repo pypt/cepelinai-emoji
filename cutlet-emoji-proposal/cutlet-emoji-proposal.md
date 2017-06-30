@@ -38,7 +38,7 @@ Please see attached file [`cutlet-emoji-images.zip`](cutlet-emoji-images.zip).
 
 <!-- The proposer must certify that the images have appropriate licenses for use by the Unicode consortium, and list the type of license. -->
 
-The cutlet emoji general concept image is own work (author can't draw really), released into public domain.
+The cutlet emoji general concept image is own work, released into public domain.
 
 Sample images used in this proposal are licensed under Creative Commons license.
 
